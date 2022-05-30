@@ -1,5 +1,45 @@
 # plugin_contact
 
+## Contexte du projet
+
+Vous êtes amené à ajouter des fonctionnalités de formulaires de contact aux pages de votre site contenant des forms , qui exigent des connaissances dans la création de plugins Wordpress.
+
+Pour répondre à ce besoin, vous devez :
+
+​
+
+    Créer le plugin.
+    Le plugin doit s'afficher dans la liste des plugins à activer.
+    Créer un menu pour le plugin qui va s'afficher dans la partie back-end de WordPress
+    Personnaliser l'icône du plugin
+    Le plugin devra rendre facile la configuration des champs à laisser et à effacer du formulaire.
+    Le plugin devra sauvegarder les données à la base de données.
+    Si le plugin utilise une nouvelle table il faut créer cette table dans l'activation du plugin, et la supprimer dans la désactivation.
+
+​
+
+## Optionnel :
+
+​
+
+Afficher les réponses du formulaire sur l'espace administateur du plugin.
+
+​
+Modalités pédagogiques
+
+## Modalité de travail : 
+Travail Individuel
+
+## Temporalité :
+3 Jours
+
+## Livrables
+
+Lien github qui contient le plugin.
+Fichier Readme contenant les étapes d'installation du plugin et l'utilité du plugin ,avec des captures écran.
+
+
+
 ## Etapes d'installation Wordpress
 ### 1-Installer un serveur web local sur Windows (WAMP), Mac (MAMP) ou Linux (LAMP)
 > serveur ulilisé WAMP, Windows Apache MySQL PHP [wamp Official Website](https://www.wampserver.com/)
@@ -11,14 +51,17 @@
 ### 5-Acceder au localhost , puis aux dossier wordpress, rempli la formulaire puis lancer l'installation
 ### ScreenShots
 
-![image](https://user-images.githubusercontent.com/94972916/170792614-cb344411-d9e3-4101-9e55-9f85d45fe932.png)
+## Contact form
+![image](https://user-images.githubusercontent.com/94972916/171044410-3a06afe8-e172-4718-95fb-2982d1e013e6.png)
 
-## Page of settings
-![image](https://user-images.githubusercontent.com/94972916/170792826-5f42baaa-ef88-4026-a9bf-a8a469b20f53.png)
-![image](https://user-images.githubusercontent.com/94972916/170792883-f954fc3c-43cf-4f14-afed-723cec10e130.png)
+## Dash plugin
+![image](https://user-images.githubusercontent.com/94972916/171044604-69eb75e7-fded-4f6d-b724-81e70d3d13ee.png)
 
-## Page of plugin
-![image](https://user-images.githubusercontent.com/94972916/170793055-c0c80db9-f05b-4572-9ca5-622a115537b9.png)
+## Form design
+![image](https://user-images.githubusercontent.com/94972916/171044733-4a0cc4a3-b5da-4551-b258-db6602ffc804.png)
 
-## Page of all messages
-![image](https://user-images.githubusercontent.com/94972916/170793197-bf970f8f-c0f8-447c-860f-20942f59a538.png)
+## Settings
+![image](https://user-images.githubusercontent.com/94972916/171044830-d9e1d62c-b942-4bb4-bcc5-28447a3e4b63.png)
+![image](https://user-images.githubusercontent.com/94972916/171044905-bf60d243-1eea-4328-b23e-859956aebe03.png)
+
+
